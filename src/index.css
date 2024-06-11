@@ -13,10 +13,6 @@
   border-radius: 4px;
 }
 
-.CodeMirror:nth-child(1) {
-  display: none;
-}
-
 /* Hide any extra lines if they appear */
 .CodeMirror-wrap pre.CodeMirror-line,
 .CodeMirror-wrap pre.Codemirror-line-like {
